@@ -1,0 +1,11 @@
+name: dson_04
+description: A simple console application.
+version: 0.0.1
+#homepage: https://www.example.com
+#author: luis <email@example.com>
+
+environment:
+  sdk: '>=1.20.1 <2.0.0'
+
+dependencies:
+  dson: any
